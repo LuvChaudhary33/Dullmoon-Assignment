@@ -1,3 +1,7 @@
+# Profile page
+<img width="904" alt="Screenshot 2023-10-08 013503" src="https://github.com/LuvChaudhary33/Dullmoon-Assignment/assets/110561471/27f06575-4ef0-49cc-8619-058587351d53">
+<img width="870" alt="Screenshot 2023-10-08 013546" src="https://github.com/LuvChaudhary33/Dullmoon-Assignment/assets/110561471/d2194dcc-0e30-4af2-9977-63ddf72790dc">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
